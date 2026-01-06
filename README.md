@@ -1,5 +1,4 @@
-***Bot Farm***
+Bot Farm
 
-Este repo está orientado a almacenar y documentar los bots (conversacional y no conversacional) desarrollados por el equipo @BotForce, ellos están desarrollados en formato webchat en Botpress, JS.
-
+This repository is dedicated to storing and documenting the bots (conversational and non-conversational) developed by the @BotForce team. They are developed in webchat format using Botpress and TypeScript.
 
