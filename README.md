@@ -2,7 +2,7 @@
 
 ![Bot farm image](botFimage.png)
 
-This repository is dedicated to storing AI Conversational Agents for Supporting Teaching & Learning and the well-being of UCSC Students (conversational and non-conversational), developed by the @botForce team and internal collaborators. They are developed in a web chat format using Botpress, Make, TypeScript, and JavaScript.
+This repository is dedicated to store AI Conversational Agents for Supporting Teaching & Learning and the well-being of UCSC Students (conversational and non-conversational), developed by the @botForce team and internal collaborators. They are developed in a web chat format using Botpress, Make, TypeScript, and JavaScript.
 
 - ​[SoftWise - 2026 Jan 06.bpz] para web v1.0.1 (creado por Claudia Martínez-Araneda y Alejandra Segura-Navarrete)
 - [CEABot - 2026 Jan 06.bpz] para web v1.0.1 (creado por Claudia Martínez-Araneda y Pilar Ubilla Bustamante)
@@ -14,8 +14,7 @@ This repository is dedicated to storing AI Conversational Agents for Supporting 
 - Claudia Martínez-Araneda [cmartinez.ucsc@gmail.com]
 - Nicolás Cereceda Squella [ncereceda@ucsc.cl]
 
-Collaborators
-- Claudia Martínez-Araneda [cmartinez.ucsc@gmail.com]
+Internal collaborators
 - Mariella Gutiérrez Valenzuela [mariellag@ucsc.cl]
 - Nicolás Cereceda Squella [ncereceda@ucsc.cl]
 - Pedro Gómez Meneses [pgomeza@ucsc.cl]
