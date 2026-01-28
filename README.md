@@ -1,4 +1,4 @@
-##Bot Farm##
+Granja de Bots
 
 ![Bot farm image](granja_200x169_sf.png)
 
@@ -10,7 +10,7 @@ This repository is dedicated to store AI Conversational Agents for Supporting Te
 - [tutorB@t - 2026 Jan 06.bpz]​ para web (con workflow, versión más antigua) - deprecated v1.0.0
 - [UCSCBot.-.2026.Jan.07.zip] para Discord v1.0.1 (creado por Nicolás Cereceda)
 
-@botForce team members
+
 - Claudia Martínez-Araneda [cmartinez.ucsc@gmail.com] [cmartinez@ucsc.cl]
 - Nicolás Cereceda Squella [ncereceda@ucsc.cl]
 
