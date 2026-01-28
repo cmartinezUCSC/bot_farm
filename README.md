@@ -11,7 +11,7 @@ This repository is dedicated to store AI Conversational Agents for Supporting Te
 - [UCSCBot.-.2026.Jan.07.zip] para Discord v1.0.1 (creado por Nicolás Cereceda)
 
 @botForce team members
-- Claudia Martínez-Araneda [cmartinez.ucsc@gmail.com]
+- Claudia Martínez-Araneda [cmartinez.ucsc@gmail.com] [cmartinez@ucsc.cl]
 - Nicolás Cereceda Squella [ncereceda@ucsc.cl]
 
 Internal collaborators
@@ -21,5 +21,5 @@ Internal collaborators
   
 External collaborators 
 - Diego Maldonado Montiel [dmaldonado@gmail.com]
+- Alejandra Segura-Navarrete [asegura@ubiobio.cl]
 - Pilar Ubilla Bustamante [pubilla@ucsc.cl]
-  
