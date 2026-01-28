@@ -1,7 +1,6 @@
 **Bot Farm**
 
-![Bot farm image](<img width="200" height="169" alt="granja_200x169" src="https://github.com/user-attachments/assets/3e925f3f-ae87-4808-a0f9-b031c638051a" />
-)
+![Bot farm image](granja_200x169_sf.png)
 
 This repository is dedicated to store AI Conversational Agents for Supporting Teaching & Learning and the well-being of UCSC Students (conversational and non-conversational), developed by the @botForce team and internal collaborators. They are developed in a web chat format using Botpress, Make, TypeScript, and JavaScript.
 
